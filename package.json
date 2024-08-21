@@ -4,7 +4,7 @@
   "description": "treinamento de criação de apis restful",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon ./src/server.js"
   },
   "author": "Paulinho",
   "license": "ISC",
